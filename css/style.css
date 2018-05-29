@@ -1,0 +1,238 @@
+body {
+	background-color: #eaeceb;
+}
+
+.top_bg {
+	position: absolute;
+	padding: 0px;
+	background-image: url("../images/texture1.jpg");
+	background-repeat: repeat-x;
+	background-size: cover;
+	max-height: 450px;
+	box-shadow: 0px 3px 0px -1px #c4c5c5;
+	z-index: -1;
+}
+
+#color {
+	opacity: 0.7;
+	width: 100%;
+	background-repeat: repeat-x;
+	max-height: 450px;
+}
+
+.top {
+	margin-top: 5px;
+	color: white;
+	font-size: 9px;
+}
+
+.top a {
+	color: white;
+	font-family: Casper;
+	font-size: 9px;
+	font-weight: bold;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.top a.img {
+	padding-left: 5px;
+	padding-right: 0;
+}
+
+.roundCornerBox {
+	width: 100%;
+	margin-top: 10px;
+	border-radius: 15px;
+	background-color: #ffffff;
+	box-shadow: 0px 3px 10px -1px #c4c5c5;
+	padding-bottom: 25px;
+	margin-bottom: 20px;
+}
+
+.navbar {
+	margin: 10px 1px 0 1px;
+	border:0;
+	background-color: #ffffff;
+	box-shadow: 0px 3px 10px -1px #c4c5c5;
+}
+
+.CreativeKids {
+	font-family: Aleo;
+	font-size: 25px;
+	font-weight: bolder;
+}
+
+.navBody {
+	padding-right: 25px;
+	color: #6b6c6e;
+	font-family: Casper;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.navBody li a {
+	/*padding-left: 10px;
+	padding-right: 10px;*/
+	text-align: center;
+}
+
+.homeBox {
+	min-height: 338px;
+	padding: 0px;
+	box-shadow: 0px 3px 10px -1px #c4c5c5;
+}
+
+.noPadding {
+	margin-right: 0;
+	margin-left: 0;
+	padding: 0;
+}
+
+#child1 {
+	height: auto;
+	width: 100%;
+}
+
+.homeText {
+	text-align: center;
+	font-family: Casper;
+	font-weight: bolder;
+	font-style: normal;
+
+}
+
+.btn {
+	border: 0;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	padding: 4% 10% 4% 10%;
+	color: white;
+	background-color: #22bdb6;
+}
+
+.box {
+	overflow: hidden;
+	position: relative;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 20px;
+}
+
+.tableBox {
+	padding-left: 0px;
+	border: 0.1px solid;
+	border-color: #dcdbd9;
+	color: #444444;
+	box-shadow: 2px 2px 10px -1px #c4c5c5;
+	font-family: Casper;
+	font-weight: bolder;
+	height: 100%;
+}
+
+.tableBox tr td div {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.tableImg {
+	padding: 0;
+	width: 75%;
+	height: auto;
+}
+
+.buttonBlock {
+	display: block;
+	width: 100%;
+	margin: 0;
+	border-radius: 0;
+	font-family: Aleo;
+	font-weight: bolder;
+	font-size: 20px;
+}
+
+.heightSet {
+	overflow: hidden;
+	position: relative;
+	width: 100%;
+}
+
+.roundImg {
+	border-radius: 50%;
+}
+
+.tableBorder {
+	margin-bottom: 15px;
+    text-align: center;
+    height: 100%;
+}
+
+.roundHead {
+    position: relative;
+    margin: 0 auto -40px;
+    height: 100px;
+    width: 100px;
+    border: 5px solid white;
+    border-radius: 100%;
+}
+
+.customTable {
+	margin-bottom: 10px;
+	font-family: Casper;
+	color: white;
+	text-align: center;
+	width: 100%;
+}
+
+.customPadding {
+	padding: 10px;
+}
+
+.lastButton {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	border-radius: 0;
+}
+
+.bottomBg {
+	margin-bottom: 25px;
+	background-size: cover;
+	background-image: url("../images/bottom_bg.png");
+}
+
+#bottomBg {
+	width:100%;
+	background-repeat: repeat-x;
+	margin-bottom: 50px;
+}
+
+.bottomImgPosition {
+	margin-top: -15px ;
+}
+
+#octoImg {
+	position: relative;
+	max-width: 130px;
+	height: auto;
+}
+
+.ulClass {
+	list-style: none;
+	padding-left: 0px;
+	margin-top: 15px;
+	font-family: Casper;
+	color: white;
+	font-size: 12px;
+}
+
+#fishImg {
+	position: absolute;
+	max-width: 100px;
+	height: auto;
+	margin-top: 20px;
+}
+.orderBox{
+	margin-top: 15%;
+	margin-bottom: 15%
+}
